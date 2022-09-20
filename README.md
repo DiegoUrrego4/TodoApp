@@ -1,5 +1,5 @@
-# Webpack Starter
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+# Todo App
+Proyecto de todos creado usando solo HTML, CSS y JavaScript.
 
 ## Notas:
 Recuerden recosntruir los módulos de node
