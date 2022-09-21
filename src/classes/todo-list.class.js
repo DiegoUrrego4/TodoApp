@@ -2,7 +2,6 @@ import { Todo } from './todo.class';
 
 export class TodoList {
   constructor() {
-    // this.todos = [];
     this.cargarLocalStorage();
   }
 
